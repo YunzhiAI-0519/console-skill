@@ -44,6 +44,12 @@ python scripts/check_redlines.py <目录或文件> [更多路径...] [--quiet]
 # 退出码：发现错误级违规返回 1，否则 0
 ```
 
+## 预览图
+<p align="center">
+  <img src="minirelax.png" alt="MiniRelax" width="520">
+</p>
+
+
 ## 红线（摘要，完整版见 references/redlines-and-templates.md）
 
 - 颜色全部来自变量表，新增色必须先注册；
